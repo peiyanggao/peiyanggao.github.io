@@ -65,23 +65,35 @@ author_profile: true
 </style>
 
 <div class="photo-gallery">
-  <a href="#" data-img="/images/photograph/film-001.jpg" data-caption="Qingdao · 2022">
+  <a href="#" data-img="/images/photograph/film-001.jpg" data-caption="Amsterdam · 2023 · AAIC RAI">
     <img src="/images/photograph/film-001.jpg" alt="Film photo 1">
   </a>
-  <a href="#" data-img="/images/photograph/film-002.jpg" data-caption="Amsterdam, Rijksmuseum · 2023">
+  <a href="#" data-img="/images/photograph/film-002.jpg" data-caption="Toronto · 2025 · AAIC Toronto Univeristy">
     <img src="/images/photograph/film-002.jpg" alt="Film photo 2">
   </a>
-  <a href="#" data-img="/images/photograph/film-003.jpg" data-caption="Amsterdam, RAI · 2023 · AAIC">
+  <a href="#" data-img="/images/photograph/film-003.jpg" data-caption="Qingdao · 2022 · Qingdao Forest Park">
     <img src="/images/photograph/film-003.jpg" alt="Film photo 3">
   </a>
-  <a href="#" data-img="/images/photograph/film-004.jpg" data-caption="Taiwu Town · 2024">
+  <a href="#" data-img="/images/photograph/film-004.jpg" data-caption="Amsterdam · 2023 · Train station">
     <img src="/images/photograph/film-004.jpg" alt="Film photo 4">
   </a>
-  <a href="#" data-img="/images/photograph/film-005.jpg" data-caption="Toronto · 2025 · AAIC">
+  <a href="#" data-img="/images/photograph/film-005.jpg" data-caption="Frankfurt · 2023 · Frankfurt am Main">
     <img src="/images/photograph/film-005.jpg" alt="Film photo 5">
   </a>
-  <a href="#" data-img="/images/photograph/film-006.jpg" data-caption="Frankfurt, Airport · 2025">
+    <a href="#" data-img="/images/photograph/film-006.jpg" data-caption="Frankfurt · 2025 · Airport">
     <img src="/images/photograph/film-006.jpg" alt="Film photo 6">
+  </a>
+    <a href="#" data-img="/images/photograph/film-007.jpg" data-caption="Tokyo · 2024">
+    <img src="/images/photograph/film-007.jpg" alt="Film photo 7">
+  </a>
+    <a href="#" data-img="/images/photograph/film-008.jpg" data-caption="Paris · 2023">
+    <img src="/images/photograph/film-008.jpg" alt="Film photo 8">
+  </a>
+    <a href="#" data-img="/images/photograph/film-009.jpg" data-caption="Paris · 2023">
+    <img src="/images/photograph/film-009.jpg" alt="Film photo 9">
+  </a>
+    <a href="#" data-img="/images/photograph/film-010.jpg" data-caption="Amsterdam, Rijksmuseum · 2023">
+    <img src="/images/photograph/film-010.jpg" alt="Film photo 10">
   </a>
 </div>
 
