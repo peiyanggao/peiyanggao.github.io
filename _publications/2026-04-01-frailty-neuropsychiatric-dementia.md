@@ -1,7 +1,7 @@
 ---
 title: "Genetic mechanisms, brain structures, and peripheral biomarkers mediate the relationship between physical frailty and neuropsychiatric disorders"
 collection: publications
-category: manuscripts
+category: firstauthor
 permalink: /publication/2026-04-01-frailty-neuropsychiatric-dementia
 excerpt: 'Using UK Biobank data, this study reveals that physical frailty increases the risk of multiple neurodegenerative and psychiatric disorders, with potential causal links to depression and anxiety. Genetics, brain structural changes (frontal cortex, thalamus, hippocampus), and peripheral biomarkers (total cholesterol, GDF15, WFDC2) mediate these associations.'
 date: 2026-04-01
