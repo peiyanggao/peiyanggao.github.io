@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Pei-Yang Gao"
 author_profile: true
 redirect_from: 
   - /about/
