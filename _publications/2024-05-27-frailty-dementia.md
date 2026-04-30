@@ -1,7 +1,7 @@
 ---
 title: "Physical frailty, genetic predisposition, and incident dementia: a large prospective cohort study"
 collection: publications
-category: manuscripts
+category: firstauthor
 permalink: /publication/2024-05-27-frailty-dementia
 excerpt: 'Using UK Biobank data from 274,194 participants, this study reveals that physical frailty interacts with genetic predisposition (polygenic risk score) to substantially increase the risk of incident dementia. Frail individuals with high genetic risk had nearly 4-fold higher dementia incidence than non-frail individuals with low genetic risk.'
 date: 2024-05-27
