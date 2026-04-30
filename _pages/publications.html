@@ -11,6 +11,21 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+{% for category in site.data.navigation.publications %}
+{% endfor %}
+
+{% assign ordered_pubs = site.publications | sort: "date" | reverse %}
+
+{% for category in site.publication_category %}
+  {% assign category_slug = category[0] %}
+  {% assign category_title = category[1].title %}
+  
+  ## {{ category_title }}
+  
+  {% for post in ordered_pubs %}
+    {% if post.category == category_slug %}
+      {% include archive-single.html %}
+    {% endif %}
+  {% endfor %}
+  
 {% endfor %}
