@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Conferences"
-permalink: /talks/
+permalink: /conferences/
 author_profile: true
 ---
 
