@@ -5,7 +5,9 @@ permalink: /photography/
 author_profile: true
 ---
 
-35mm film photographs from cities, conferences, and everyday moments.
+<div markdown="0">
+
+<p>35mm film photographs from cities, conferences, and everyday moments.</p>
 
 <style>
 .photo-gallery {
@@ -111,3 +113,5 @@ document.addEventListener('keydown', function(e) {
   }
 });
 </script>
+
+</div>
