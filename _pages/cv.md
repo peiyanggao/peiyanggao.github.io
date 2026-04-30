@@ -71,7 +71,7 @@ Publications
 For a complete list of publications, please see the [Publications](/publications/) page.
 
 
-Service & Membership
+Membership
 ======
 * ISTAART Member, Alzheimer's Association
 * EAN Resident and Research Member, European Academy of Neurology
