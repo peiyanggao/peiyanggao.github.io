@@ -11,6 +11,18 @@ You can also find my articles on <a href="{{author.googlescholar}}">my Google Sc
 
 {% include base_path %}
 
+<style>
+.archive__subtitle {
+  color: #1a1a1a !important;
+  font-weight: 700 !important;
+  font-size: 1.5em !important;
+  margin-top: 1.5em !important;
+  margin-bottom: 0.6em !important;
+  padding-bottom: 0.3em !important;
+  border-bottom: 1px solid #e5e5e5 !important;
+}
+</style>
+
 {% assign ordered_pubs = site.publications | sort: "date" | reverse %}
 
 {% for category in site.publication_category %}
