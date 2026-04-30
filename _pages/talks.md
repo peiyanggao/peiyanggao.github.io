@@ -98,21 +98,21 @@ International and domestic conferences I have attended as an oral or poster pres
 
 <div class="conf-grid">
 
-  <div class="conf-card" data-img="/images/conferences/oral/aaic-2025-oral.jpg" data-caption="AAIC 2025 · Toronto · Jul 2025">
+  <div class="conf-card" data-img="/images/conferences/oral/aaic-2025-oral.jpg" data-caption="AAIC 2025 · Toronto · July 2025">
     <img src="/images/conferences/oral/aaic-2025-oral.jpg" alt="AAIC 2025">
     <div class="conf-card-body">
-      <div class="conf-card-meta">AAIC 2025<br>Toronto · Jul 2025</div>
+      <div class="conf-card-meta">AAIC 2025<br>Toronto · July 2025</div>
     </div>
   </div>
   
-  <div class="conf-card" data-img="/images/conferences/oral/aaic-2024-oral.jpg" data-caption="AAIC 2024 · Philadelphia · Jul 2024">
+  <div class="conf-card" data-img="/images/conferences/oral/aaic-2024-oral.jpg" data-caption="AAIC 2024 · Philadelphia · July 2024">
     <img src="/images/conferences/oral/aaic-2024-oral.jpg" alt="AAIC 2024">
     <div class="conf-card-body">
-      <div class="conf-card-meta">AAIC 2024<br>Philadelphia · Jul 2025</div>
+      <div class="conf-card-meta">AAIC 2024<br>Philadelphia · July 2025</div>
     </div>
   </div>
 
-  <div class="conf-card" data-img="/images/conferences/oral/JSN-2025-oral.jpg" data-caption="JSN 66th Annual Meeting · Osaka · 2025">
+  <div class="conf-card" data-img="/images/conferences/oral/JSN-2025-oral.jpg" data-caption="JSN 66th Annual Meeting · Osaka · May 2025">
     <img src="/images/conferences/oral/JSN-2025-oral.jpg" alt="JSN 2025">
     <div class="conf-card-body">
       <div class="conf-card-meta">JSN 66th Annual Meeting<br>Osaka · May 2025</div>
@@ -146,24 +146,24 @@ International and domestic conferences I have attended as an oral or poster pres
     </div>
   </div>
 
-  <div class="conf-card" data-img="/images/conferences/poster/aaic-2024-poster1.jpg" data-caption="AAIC 2024 · Philadelphia · Jul 2024">
+  <div class="conf-card" data-img="/images/conferences/poster/aaic-2024-poster1.jpg" data-caption="AAIC 2024 · Philadelphia · July 2024">
     <img src="/images/conferences/poster/aaic-2024-poster1.jpg" alt="AAIC 2024 poster 1">
     <div class="conf-card-body">
-      <div class="conf-card-meta">AAIC 2024<br>Philadelphia · Jul 2024</div>
+      <div class="conf-card-meta">AAIC 2024<br>Philadelphia · July 2024</div>
     </div>
   </div>
 
-  <div class="conf-card" data-img="/images/conferences/poster/aaic-2024-poster2.jpg" data-caption="AAIC 2024 · Philadelphia · Jul 2024">
+  <div class="conf-card" data-img="/images/conferences/poster/aaic-2024-poster2.jpg" data-caption="AAIC 2024 · Philadelphia · July 2024">
     <img src="/images/conferences/poster/aaic-2024-poster2.jpg" alt="AAIC 2024 poster 2">
     <div class="conf-card-body">
-      <div class="conf-card-meta">AAIC 2024<br>Philadelphia · Jul 2024</div>
+      <div class="conf-card-meta">AAIC 2024<br>Philadelphia · July 2024</div>
     </div>
   </div>
 
-  <div class="conf-card" data-img="/images/conferences/poster/aaic-2023-poster.jpg" data-caption="AAIC 2023 · Amsterdam · Jul 2023">
+  <div class="conf-card" data-img="/images/conferences/poster/aaic-2023-poster.jpg" data-caption="AAIC 2023 · Amsterdam · July 2023">
     <img src="/images/conferences/poster/aaic-2023-poster.jpg" alt="AAIC 2023 poster">
     <div class="conf-card-body">
-      <div class="conf-card-meta">AAIC 2023<br>Amsterdam · Jul 2023</div>
+      <div class="conf-card-meta">AAIC 2023<br>Amsterdam · July 2023</div>
     </div>
   </div>
 
