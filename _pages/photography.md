@@ -80,19 +80,19 @@ author_profile: true
   <a href="#" data-img="/images/photograph/film-005.jpg" data-caption="Frankfurt · 2023 · Frankfurt am Main">
     <img src="/images/photograph/film-005.jpg" alt="Film photo 5">
   </a>
-    <a href="#" data-img="/images/photograph/film-006.jpg" data-caption="Frankfurt · 2025 · Airport">
+  <a href="#" data-img="/images/photograph/film-006.jpg" data-caption="Frankfurt · 2025 · Airport">
     <img src="/images/photograph/film-006.jpg" alt="Film photo 6">
   </a>
-    <a href="#" data-img="/images/photograph/film-007.jpg" data-caption="Tokyo · 2024">
+  <a href="#" data-img="/images/photograph/film-007.jpg" data-caption="Tokyo · 2024">
     <img src="/images/photograph/film-007.jpg" alt="Film photo 7">
   </a>
-    <a href="#" data-img="/images/photograph/film-008.jpg" data-caption="Paris · 2023">
+  <a href="#" data-img="/images/photograph/film-008.jpg" data-caption="Paris · 2023">
     <img src="/images/photograph/film-008.jpg" alt="Film photo 8">
   </a>
-    <a href="#" data-img="/images/photograph/film-009.jpg" data-caption="Paris · 2023">
+  <a href="#" data-img="/images/photograph/film-009.jpg" data-caption="Paris · 2023">
     <img src="/images/photograph/film-009.jpg" alt="Film photo 9">
   </a>
-    <a href="#" data-img="/images/photograph/film-010.jpg" data-caption="Amsterdam, Rijksmuseum · 2023">
+  <a href="#" data-img="/images/photograph/film-010.jpg" data-caption="Amsterdam, Rijksmuseum · 2023">
     <img src="/images/photograph/film-010.jpg" alt="Film photo 10">
   </a>
 </div>
