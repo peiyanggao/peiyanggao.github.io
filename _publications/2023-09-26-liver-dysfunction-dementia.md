@@ -1,7 +1,7 @@
 ---
 title: "Associations of liver dysfunction with incident dementia, cognition, and brain structure: A prospective cohort study of 431 699 adults"
 collection: publications
-category: manuscripts
+category: firstauthor
 permalink: /publication/2023-09-26-liver-dysfunction-dementia
 excerpt: 'Using UK Biobank data from 431,699 participants, this study reveals that liver dysfunction — including abnormal liver enzymes (ALT, AST, GGT) and liver diseases (alcoholic liver disease, fibrosis/cirrhosis) — significantly increases the risk of incident dementia, impairs cognition, and is associated with structural changes in brain regions critical for cognitive function.'
 date: 2023-09-26
