@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 35mm film photographs from cities, conferences, and everyday moments.
-
 <style>
 .photo-gallery {
   display: grid;
@@ -14,14 +13,12 @@ author_profile: true
   gap: 12px;
   margin-top: 30px;
 }
-
 .photo-gallery a {
   display: block;
   overflow: hidden;
   border-radius: 4px;
   background: #f5f5f5;
 }
-
 .photo-gallery img {
   width: 100%;
   height: 220px;
@@ -29,33 +26,30 @@ author_profile: true
   display: block;
   transition: transform 0.3s ease;
 }
-
 .photo-gallery a:hover img {
   transform: scale(1.05);
 }
-
 .lightbox {
   display: none;
   position: fixed;
-  top: 0; left: 0;
-  width: 100%; height: 100%;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
   background: rgba(0,0,0,0.9);
   z-index: 9999;
   cursor: pointer;
 }
-
 .lightbox.active {
   display: flex;
   align-items: center;
   justify-content: center;
 }
-
 .lightbox img {
   max-width: 90%;
   max-height: 90%;
   object-fit: contain;
 }
-
 .lightbox-caption {
   position: absolute;
   bottom: 20px;
@@ -86,7 +80,6 @@ author_profile: true
   <a href="#" data-img="/images/photograph/film-006.jpg" data-caption="Frankfurt, Airport · 2025">
     <img src="/images/photograph/film-006.jpg" alt="Film photo 6">
   </a>
-  
 </div>
 
 <div class="lightbox" id="lightbox">
