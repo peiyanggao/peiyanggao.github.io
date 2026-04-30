@@ -62,7 +62,6 @@ Skills
   * Stereotactic surgery, perfusion, brain tissue collection
   * PCR, Western blot, ELISA
 * **Data Sources**: UK Biobank, ADNI, ROSMAP, PPMI, ADKP, GEO
-* **Software & Tools**: Git, Linux/HPC, LaTeX, Adobe Illustrator
 * **Languages**: Mandarin (native), English (professional working proficiency)
 
 
