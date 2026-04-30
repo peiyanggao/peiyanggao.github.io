@@ -16,7 +16,6 @@ Research Interests
 - Epidemiology of dementia and cognitive impairment
 - Modifiable risk factors of dementia (frailty, liver dysfunction, chronic pain, social determinants)
 - Multi-omics biomarkers: proteomics, metabolomics, and genomics
-- Single-cell transcriptomics of neurodegenerative diseases
 
 Publications
 ======
