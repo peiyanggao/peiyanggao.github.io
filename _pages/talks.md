@@ -98,31 +98,38 @@ International and domestic conferences I have attended as an oral or poster pres
 
 <div class="conf-grid">
 
-  <div class="conf-card" data-img="/images/conferences/oral/oral-aaic-2026-toronto.jpg" data-caption="AAIC 2026 · Toronto · Jul 2026">
-    <img src="/images/conferences/oral/oral-aaic-2026-toronto.jpg" alt="AAIC 2026">
+  <div class="conf-card" data-img="/images/conferences/oral/aaic-2025-oral.jpg" data-caption="AAIC 2025 · Toronto · Jul 2025">
+    <img src="/images/conferences/oral/aaic-2025-oral.jpg" alt="AAIC 2025">
     <div class="conf-card-body">
-      <div class="conf-card-meta">AAIC 2026<br>Toronto · Jul 2026</div>
+      <div class="conf-card-meta">AAIC 2025<br>Toronto · Jul 2025</div>
     </div>
   </div>
-
-  <div class="conf-card" data-img="/images/conferences/oral/oral-jsn-2026-japan.jpg" data-caption="JSN 67th Annual Meeting · Japan · 2026">
-    <img src="/images/conferences/oral/oral-jsn-2026-japan.jpg" alt="JSN 2026">
-    <div class="conf-card-body">
-      <div class="conf-card-meta">JSN 67th Annual Meeting<br>Japan · 2026</div>
-    </div>
-  </div>
-
-  <div class="conf-card" data-img="/images/conferences/oral/oral-aaic-2025-toronto.jpg" data-caption="AAIC 2025 · Toronto · Jul 2025">
-    <img src="/images/conferences/oral/oral-aaic-2025-toronto.jpg" alt="AAIC 2025">
+  
+  <div class="conf-card" data-img="/images/conferences/oral/aaic-2024-oral.jpg" data-caption="AAIC 2024 · Philadelphia · Jul 2024">
+    <img src="/images/conferences/oral/aaic-2024-oral.jpg" alt="AAIC 2024">
     <div class="conf-card-body">
       <div class="conf-card-meta">AAIC 2025<br>Toronto · Jul 2025</div>
     </div>
   </div>
 
-  <div class="conf-card" data-img="/images/conferences/oral/oral-jsn-2024-japan.jpg" data-caption="JSN 65th Annual Meeting · Japan · 2024">
-    <img src="/images/conferences/oral/oral-jsn-2024-japan.jpg" alt="JSN 2024">
+  <div class="conf-card" data-img="/images/conferences/oral/JSN-2025-oral.jpg" data-caption="JSN 66th Annual Meeting · Osaka · 2025">
+    <img src="/images/conferences/oral/JSN-2025-oral.jpg" alt="JSN 2025">
     <div class="conf-card-body">
-      <div class="conf-card-meta">JSN 65th Annual Meeting<br>Japan · 2024</div>
+      <div class="conf-card-meta">JSN 66th Annual Meeting<br>Osaka · 2025</div>
+    </div>
+  </div>
+
+  <div class="conf-card" data-img="/images/conferences/oral/ctad-2025-oral.jpg" data-caption="China CTAD Advandced Workshop · Shanghai · 2025">
+    <img src="/images/conferences/oral/ctad-2025-oral.jpg" alt="CTAD 2025">
+    <div class="conf-card-body">
+      <div class="conf-card-meta">China CTAD Advandced Workshop<br>Shanghai · 2024</div>
+    </div>
+  </div>
+  
+  <div class="conf-card" data-img="/images/conferences/oral/Changsha-2025-oral.jpg" data-caption="The 11th Academic Conference on Dementia and Cognitive Impairment of the Neurology Branch of the Chinese Medical Association · Changsha · 2025">
+    <img src="/images/conferences/oral/Changsha-2025-oral.jpg" alt="Dementia 2025">
+    <div class="conf-card-body">
+      <div class="conf-card-meta">The 11th Academic Conference on Dementia and Cognitive Impairment of the Neurology Branch of the Chinese Medical Association<br>Changsha · 2025</div>
     </div>
   </div>
 
