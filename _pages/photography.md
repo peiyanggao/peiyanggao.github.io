@@ -5,7 +5,7 @@ permalink: /photography/
 author_profile: true
 ---
 
-A personal collection of film photographs taken over the years. All shot on 35mm film.
+35mm film photographs from cities, conferences, and everyday moments.
 
 <style>
 .photo-gallery {
