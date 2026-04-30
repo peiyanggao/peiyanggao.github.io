@@ -11,54 +11,72 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Neurology**, Capital Medical University, 2024 – present
+  * Advisor: Prof. Yi Tang
+  * Xuanwu Hospital, Innovation Center for Neurological Disorders
+* **Master degree in Neurology**, Qingdao University, 2021 – 2024
+  * Advisor: Prof. Jin-Tai Yu
+  * Qingdao Municipal Hospital
 
-Work experience
+
+Honors & Awards
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **AAIC 2026 Conference Fellowship**, Alzheimer's Association International Conference, 2026
+* **JSN 67th Travel Grant**, Japanese Society of Neurology, 2026
+* **AAIC 2025 Conference Fellowship**, Alzheimer's Association International Conference, 2025
+* **Outstanding Graduate Award**, Shandong Province, 2024
+* **Outstanding Graduate Award**, Qingdao University, 2024
+* **AAIC 2024 Conference Fellowship**, Alzheimer's Association International Conference, 2024
+* **National Scholarship for Graduate Students**, Ministry of Education of China, 2023
+* **First-Class Academic Scholarship**, Qingdao University, 2023 (rank:1/135)
+* **AAIC 2023 Conference Fellowship**, Alzheimer's Association International Conference, 2023
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+International Conference Presentations
+======
+* **AAIC 2026** (London, UK) — Oral & Poster presentations
+* **AAIC 2025** (Toronto, Canada) — 2 Oral & Poster presentations
+* **AAIC 2024** (Philadelphia, USA) — Oral & Poster presentation
+* **AAIC 2023** (Amsterdam, Netherlands) — Poster presentation (Student's poster competition)
+* **JSN 67th Annual Meeting 2026** (Yokohama, Japan) — Oral presentation
+* **JSN 66th Annual Meeting 2025** (Osaka, Japan) — Oral presentation
+* **JSN 65th Annual Meeting 2024** (Tokyo, Japan) — Oral presentation
+* **EAN 2025** (Helsinki, Finland) — Poster presentation
+* **AAN 2025** (San Diego, USA) — Poster presentation
   
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages**: R, Python, Bash/Shell
+* **Statistical Analysis**: Linear & logistic regression, Cox proportional hazards models, mediation analysis, SEM, CLPM, Mendelian randomization, GWAS/PheWAS
+* **Bioinformatics**: 
+  * Single-cell RNA-seq analysis (Seurat, Scanpy, Harmony, scVI)
+  * Proteomics, and metabolomics analysis
+  * Pathway enrichment and network analysis (GSEA, WGCNA, Cytoscape)
+* **Machine Learning & AI**: 
+  * Predictive modeling for clinical outcomes (random forest, XGBoost, regularized regression)
+  * Deep learning for biomedical data (PyTorch, scikit-learn)
+  * Large language models for literature mining and research workflows
+* **Animal Experiments**: 
+  * Behavioral tests (Morris water maze, Barnes maze, Novel object recognition, open field test, von Frey test, etc)
+  * Stereotactic surgery, perfusion, brain tissue collection
+  * PCR, Western blot, ELISA
+* **Data Sources**: UK Biobank, ADNI, ROSMAP, PPMI, ADKP, GEO
+* **Software & Tools**: Git, Linux/HPC, LaTeX, Adobe Illustrator
+* **Languages**: Mandarin (native), English (professional working proficiency)
+
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+For a complete list of publications, please see the [Publications](/publications/) page.
+
+
+Service & Membership
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* ISTAART Member, Alzheimer's Association
+* EAN Resident and Research Member, European Academy of Neurology
+
+
+Contact
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Email: [py_gao@163.com](py_gao@163.com)
