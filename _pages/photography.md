@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 35mm film photographs from cities, conferences, and everyday moments.
+
 <style>
 .photo-gallery {
   display: grid;
