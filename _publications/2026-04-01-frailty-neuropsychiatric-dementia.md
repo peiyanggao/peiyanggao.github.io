@@ -9,7 +9,7 @@ venue: 'Journal of Advanced Research'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2090123225004552'
 ---
 
-**Links**: [Journal page](https://www.sciencedirect.com/science/article/pii/S2090123225004552) | [DOI](https://doi.org/10.1016/j.jare.2025.06.046)
+**Links**: [Journal page](https://www.sciencedirect.com/science/article/pii/S2090123225004552) 
 
 This study leveraged the UK Biobank cohort to investigate how physical frailty contributes to neuropsychiatric disorders through genetic, neuroanatomical, and biochemical pathways.
 
