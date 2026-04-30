@@ -7,7 +7,7 @@ author_profile: true
 
 <div markdown="0">
 
-<p>35mm film photographs from cities, conferences, and everyday moments.</p>
+<p>Between data and dementia, between flights and lectures — these are the moments I let film slow me down.</p>
 
 <style>
 .photo-gallery {
@@ -92,8 +92,11 @@ author_profile: true
   <a href="#" data-img="/images/photograph/film-009.jpg" data-caption="Paris · 2023">
     <img src="/images/photograph/film-009.jpg" alt="Film photo 9">
   </a>
-  <a href="#" data-img="/images/photograph/film-010.jpg" data-caption="Amsterdam, Rijksmuseum · 2023">
+  <a href="#" data-img="/images/photograph/film-010.jpg" data-caption="Amsterdam · 2023 · Rijksmuseum">
     <img src="/images/photograph/film-010.jpg" alt="Film photo 10">
+  </a>
+  <a href="#" data-img="/images/photograph/film-011.jpg" data-caption="Beijing · 2026 · Capital Medical University">
+    <img src="/images/photograph/film-011.jpg" alt="Film photo 11">
   </a>
 </div>
 
