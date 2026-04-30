@@ -34,7 +34,6 @@ A personal collection of film photographs taken over the years. All shot on 35mm
   transform: scale(1.05);
 }
 
-/* 灯箱样式 */
 .lightbox {
   display: none;
   position: fixed;
@@ -69,22 +68,22 @@ A personal collection of film photographs taken over the years. All shot on 35mm
 </style>
 
 <div class="photo-gallery">
-  <a href="#" data-img="/images/photograph/film-001.jpg" data-caption="Qingdao · 2022">
+  <a href="#" data-img="/images/photograph/film-001.png" data-caption="Qingdao · 2022">
     <img src="/images/photograph/film-001.jpg" alt="Film photo 1">
   </a>
-  <a href="#" data-img="/images/photograph/film-002.jpg" data-caption="Amsterdam, Rijksmuseum · 2023">
+  <a href="#" data-img="/images/photograph/film-002.png" data-caption="Amsterdam, Rijksmuseum · 2023">
     <img src="/images/photograph/film-002.jpg" alt="Film photo 2">
   </a>
-  <a href="#" data-img="/images/photograph/film-003.jpg" data-caption="Amsterdam, RAI · 2023 · AAIC">
+  <a href="#" data-img="/images/photograph/film-003.png" data-caption="Amsterdam, RAI · 2023 · AAIC">
     <img src="/images/photograph/film-003.jpg" alt="Film photo 3">
   </a>
-  <a href="#" data-img="/images/photograph/film-004.jpg" data-caption="Taiwu Town · 2024">
+  <a href="#" data-img="/images/photograph/film-004.png" data-caption="Taiwu Town · 2024">
     <img src="/images/photograph/film-004.jpg" alt="Film photo 4">
   </a>
-  <a href="#" data-img="/images/photograph/film-005.jpg" data-caption="Toronto · 2025 · AAIC">
+  <a href="#" data-img="/images/photograph/film-005.png" data-caption="Toronto · 2025 · AAIC">
     <img src="/images/photograph/film-005.jpg" alt="Film photo 5">
   </a>
-  <a href="#" data-img="/images/photograph/film-006.jpg" data-caption="Frankfurt, Airport · 2025">
+  <a href="#" data-img="/images/photograph/film-006.png" data-caption="Frankfurt, Airport · 2025">
     <img src="/images/photograph/film-006.jpg" alt="Film photo 6">
   </a>
   
