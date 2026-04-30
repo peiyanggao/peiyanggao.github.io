@@ -10,6 +10,8 @@ paperurl: 'https://www.sciencedirect.com/science/article/pii/S2090123225004552'
 citation: '<b>Gao PY*</b>, Fu Y*, He XY*, Zhang DD*, Chi HC, Huang YM, Wang ZB, Zhang W, Ou YN, Ge YJ, You J, Ma LZ, Qiang YX, Zhao B, Yu HH, Feng J, Tan L, Cheng W, Zhang YR, Yu JT. (2025). "Genetic mechanisms, brain structures, and peripheral biomarkers mediate the relationship between physical frailty and neuropsychiatric disorders." <i>Journal of Advanced Research</i>. (*Co-first authors)'
 ---
 
+**Links**: [Journal page](https://www.sciencedirect.com/science/article/pii/S2090123225004552) | [DOI](https://doi.org/10.1016/j.jare.2025.06.046)
+
 This study leveraged the UK Biobank cohort to investigate how physical frailty contributes to neuropsychiatric disorders through genetic, neuroanatomical, and biochemical pathways.
 
 **Key findings:**
