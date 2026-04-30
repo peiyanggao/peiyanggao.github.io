@@ -32,7 +32,7 @@ News
 - **[2025]** Co-first-author papers published in *Translational Neurodegeneration* (IF=15.2) and *Journal of Advanced Research* (IF=13).
 - **[Aug 2024]** Started my Ph.D. at Capital Medical University, joining Prof. Yi Tang's group.
 - **[Jun 2024]** Received the **Outstanding Graduate Award** from Shandong Province and Qingdao University.
-- **[2024]** First-author paper published in *Translational Psychiatry*: "[Physical frailty, genetic predisposition, and incident dementia.](https://www.nature.com/articles/s41398-024-02927-7)"
+- **[May 2024]** First-author paper published in *Translational Psychiatry*: "[Physical frailty, genetic predisposition, and incident dementia.](https://www.nature.com/articles/s41398-024-02927-7)"
 
 Contact
 ======
