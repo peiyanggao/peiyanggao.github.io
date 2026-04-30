@@ -226,7 +226,7 @@ collections:
     permalink: /:collection/:path/
   portfolio:
     output: true
-    permalink: /photography/:path/
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
