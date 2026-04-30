@@ -108,28 +108,28 @@ International and domestic conferences I have attended as an oral or poster pres
   <div class="conf-card" data-img="/images/conferences/oral/aaic-2024-oral.jpg" data-caption="AAIC 2024 · Philadelphia · Jul 2024">
     <img src="/images/conferences/oral/aaic-2024-oral.jpg" alt="AAIC 2024">
     <div class="conf-card-body">
-      <div class="conf-card-meta">AAIC 2025<br>Toronto · Jul 2025</div>
+      <div class="conf-card-meta">AAIC 2024<br>Philadelphia · Jul 2025</div>
     </div>
   </div>
 
   <div class="conf-card" data-img="/images/conferences/oral/JSN-2025-oral.jpg" data-caption="JSN 66th Annual Meeting · Osaka · 2025">
     <img src="/images/conferences/oral/JSN-2025-oral.jpg" alt="JSN 2025">
     <div class="conf-card-body">
-      <div class="conf-card-meta">JSN 66th Annual Meeting<br>Osaka · 2025</div>
+      <div class="conf-card-meta">JSN 66th Annual Meeting<br>Osaka · May 2025</div>
     </div>
   </div>
 
   <div class="conf-card" data-img="/images/conferences/oral/ctad-2025-oral.jpg" data-caption="China CTAD Advandced Workshop · Shanghai · 2025">
     <img src="/images/conferences/oral/ctad-2025-oral.jpg" alt="CTAD 2025">
     <div class="conf-card-body">
-      <div class="conf-card-meta">China CTAD Advandced Workshop<br>Shanghai · 2024</div>
+      <div class="conf-card-meta">China CTAD Advandced Workshop<br>Shanghai · Sept 2025</div>
     </div>
   </div>
   
   <div class="conf-card" data-img="/images/conferences/oral/Changsha-2025-oral.jpg" data-caption="The 11th Academic Conference on Dementia and Cognitive Impairment of the Neurology Branch of the Chinese Medical Association · Changsha · 2025">
     <img src="/images/conferences/oral/Changsha-2025-oral.jpg" alt="Dementia 2025">
     <div class="conf-card-body">
-      <div class="conf-card-meta">The 11th Academic Conference on Dementia and Cognitive Impairment of the Neurology Branch of the Chinese Medical Association<br>Changsha · 2025</div>
+      <div class="conf-card-meta">The 11th Academic Conference on Dementia and Cognitive Impairment of the Neurology Branch of the Chinese Medical Association<br>Changsha · Nov 2025</div>
     </div>
   </div>
 
@@ -139,50 +139,29 @@ International and domestic conferences I have attended as an oral or poster pres
 
 <div class="conf-grid">
 
-  <div class="conf-card" data-img="/images/conferences/poster/poster-aaic-2026.jpg" data-caption="AAIC 2026 · Toronto · Jul 2026">
-    <img src="/images/conferences/poster/poster-aaic-2026.jpg" alt="AAIC 2026 poster">
+  <div class="conf-card" data-img="/images/conferences/poster/aan-2025-poster.jpg" data-caption="AAN 2025 · San Diego · April 2025">
+    <img src="/images/conferences/poster/aan-2025-poster.jpg" alt="AAN 2025 poster">
     <div class="conf-card-body">
-      <div class="conf-card-meta">AAIC 2026<br>Toronto · Jul 2026</div>
+      <div class="conf-card-meta">AAN 2025<br>San Diego · April 2025</div>
     </div>
   </div>
 
-  <div class="conf-card" data-img="/images/conferences/poster/poster-aaic-2025-1.jpg" data-caption="AAIC 2025 · Toronto · Jul 2025">
-    <img src="/images/conferences/poster/poster-aaic-2025-1.jpg" alt="AAIC 2025 poster 1">
-    <div class="conf-card-body">
-      <div class="conf-card-meta">AAIC 2025<br>Toronto · Jul 2025</div>
-    </div>
-  </div>
-
-  <div class="conf-card" data-img="/images/conferences/poster/poster-aaic-2025-2.jpg" data-caption="AAIC 2025 · Toronto · Jul 2025">
-    <img src="/images/conferences/poster/poster-aaic-2025-2.jpg" alt="AAIC 2025 poster 2">
-    <div class="conf-card-body">
-      <div class="conf-card-meta">AAIC 2025<br>Toronto · Jul 2025</div>
-    </div>
-  </div>
-
-  <div class="conf-card" data-img="/images/conferences/poster/poster-ean-2025.jpg" data-caption="EAN 2025 · Helsinki · Jun 2025">
-    <img src="/images/conferences/poster/poster-ean-2025.jpg" alt="EAN 2025 poster">
-    <div class="conf-card-body">
-      <div class="conf-card-meta">EAN 2025<br>Helsinki · Jun 2025</div>
-    </div>
-  </div>
-
-  <div class="conf-card" data-img="/images/conferences/poster/poster-aan-2025.jpg" data-caption="AAN 2025 · San Diego · Apr 2025">
-    <img src="/images/conferences/poster/poster-aan-2025.jpg" alt="AAN 2025 poster">
-    <div class="conf-card-body">
-      <div class="conf-card-meta">AAN 2025<br>San Diego · Apr 2025</div>
-    </div>
-  </div>
-
-  <div class="conf-card" data-img="/images/conferences/poster/poster-aaic-2024.jpg" data-caption="AAIC 2024 · Philadelphia · Jul 2024">
-    <img src="/images/conferences/poster/poster-aaic-2024.jpg" alt="AAIC 2024 poster">
+  <div class="conf-card" data-img="/images/conferences/poster/aaic-2024-poster1.jpg" data-caption="AAIC 2024 · Philadelphia · Jul 2024">
+    <img src="/images/conferences/poster/aaic-2024-poster1.jpg" alt="AAIC 2024 poster 1">
     <div class="conf-card-body">
       <div class="conf-card-meta">AAIC 2024<br>Philadelphia · Jul 2024</div>
     </div>
   </div>
 
-  <div class="conf-card" data-img="/images/conferences/poster/poster-aaic-2023.jpg" data-caption="AAIC 2023 · Amsterdam · Jul 2023">
-    <img src="/images/conferences/poster/poster-aaic-2023.jpg" alt="AAIC 2023 poster">
+  <div class="conf-card" data-img="/images/conferences/poster/aaic-2024-poster2.jpg" data-caption="AAIC 2024 · Philadelphia · Jul 2024">
+    <img src="/images/conferences/poster/aaic-2024-poster2.jpg" alt="AAIC 2024 poster 2">
+    <div class="conf-card-body">
+      <div class="conf-card-meta">AAIC 2024<br>Philadelphia · Jul 2024</div>
+    </div>
+  </div>
+
+  <div class="conf-card" data-img="/images/conferences/poster/aaic-2023-poster.jpg" data-caption="AAIC 2023 · Amsterdam · Jul 2023">
+    <img src="/images/conferences/poster/aaic-2023-poster.jpg" alt="AAIC 2023 poster">
     <div class="conf-card-body">
       <div class="conf-card-meta">AAIC 2023<br>Amsterdam · Jul 2023</div>
     </div>
