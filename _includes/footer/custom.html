@@ -13,9 +13,17 @@
     await mermaid.run({querySelector:'code.language-mermaid'});
 </script>
 <!-- Visitor map -->
-<div style="text-align:center; margin-top:1.5em; margin-bottom:1em;">
-    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=RMr6mls09Sr5ToV2sQP4jm8DgcDvbq3a8IY4obZdRCM&cl=ffffff&w=a"></script>
+<div id="visitor-map" style="text-align:center; margin:1.5em 0;">
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=XXXXXXXX&cl=ffffff&w=a"></script>
 </div>
+<style>
+  #visitor-map img,
+  #visitor-map iframe,
+  #visitor-map canvas {
+    max-width: 150px;   
+    height: auto;
+  }
+</style>
 
 
 <!-- end custom footer snippets -->
