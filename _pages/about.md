@@ -26,8 +26,6 @@ For a complete list, please see the [Publications](/publications/) page or my [G
 News
 ======
 - **[Jul 2026]** Attended **AAIC 2026** in London, UK, and delivered an **oral presentation**.
-  <img src="/images/conferences/oral/aaic-2026-oral.jpg" alt="Oral presentation at AAIC 2026, London" style="max-width: 320px; width: 100%; height: auto; display: block; margin: 0.6em 0; border-radius: 4px;">
-
 - **[Jul 2026]** New co-first-author paper has formally published in *Journal of Advanced Research*: "[Mental health, biological aging, and lifestyle mediate the associations between social determinants of health and dementia.](https://www.sciencedirect.com/science/article/pii/S2090123226005813?via%3Dihub)"
 - **[Apr 2026]** Our work has been accepted for **oral and poster presentations at AAIC 2026** in July (London, UK). I have also received the full package of **AAIC 2026 Conference Fellowship**.
 - **[Mar 2026]** New first-author paper has formally published in *Journal of Advanced Research*: "[Genetic mechanisms, brain structures, and peripheral biomarkers mediate the relationship between physical frailty and neuropsychiatric disorders.](https://www.sciencedirect.com/science/article/pii/S2090123225004552?via%3Dihub)"
