@@ -98,6 +98,13 @@ International and domestic conferences I have attended as an oral or poster pres
 
 <div class="conf-grid">
 
+  <div class="conf-card" data-img="/images/conferences/oral/aaic-2026-oral.jpg" data-caption="AAIC 2026 · London · Jul 2026">
+    <img src="/images/conferences/oral/aaic-2026-oral.jpg" alt="AAIC 2026">
+    <div class="conf-card-body">
+      <div class="conf-card-meta">AAIC 2026<br>London · Jul 2026</div>
+    </div>
+  </div>
+
   <div class="conf-card" data-img="/images/conferences/oral/aaic-2025-oral.jpg" data-caption="AAIC 2025 · Toronto · Jul 2025">
     <img src="/images/conferences/oral/aaic-2025-oral.jpg" alt="AAIC 2025">
     <div class="conf-card-body">
