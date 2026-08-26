@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-You can also find my papers on my [Google Scholar](https://scholar.google.com.hk/citations?user=We2C960AAAAJ) profil.
+You can also find my papers on my [Google Scholar](https://scholar.google.com.hk/citations?user=We2C960AAAAJ) profile.
 
 
 {% include base_path %}

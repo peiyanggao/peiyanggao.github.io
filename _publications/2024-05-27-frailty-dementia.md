@@ -9,7 +9,7 @@ venue: 'Translational Psychiatry'
 paperurl: 'https://www.nature.com/articles/s41398-024-02927-7'
 ---
 
-**Links**: [Journal page](https://www.nature.com/articles/s41398-024-02927-7) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/38802369/) 
+**Links**: [Journal page](https://www.nature.com/articles/s41398-024-02927-7) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/38802408/)
 
 This study leveraged the UK Biobank cohort (N = 274,194) to investigate the long-term relationship between physical frailty, genetic predisposition, and incident dementia, with particular emphasis on their joint effect.
 
