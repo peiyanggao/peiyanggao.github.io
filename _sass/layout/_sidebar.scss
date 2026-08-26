@@ -154,6 +154,9 @@
   }
 
   img {
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    object-position: center top;
     max-width: 175px;
     border-radius: 50%;
 

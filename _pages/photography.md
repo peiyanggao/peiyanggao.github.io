@@ -68,9 +68,6 @@ author_profile: true
   <a href="#" data-img="/images/photograph/film-001.jpg" data-caption="Amsterdam · 2023 · AAIC RAI">
     <img src="/images/photograph/film-001.jpg" alt="Film photo 1">
   </a>
-  <a href="#" data-img="/images/photograph/film-002.jpg" data-caption="Toronto · 2025 · AAIC Toronto Univeristy">
-    <img src="/images/photograph/film-002.jpg" alt="Film photo 2">
-  </a>
   <a href="#" data-img="/images/photograph/film-003.jpg" data-caption="Qingdao · 2022 · Qingdao Forest Park">
     <img src="/images/photograph/film-003.jpg" alt="Film photo 3">
   </a>
