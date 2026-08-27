@@ -23,6 +23,19 @@ I have published **10+ first-author or co-first-author papers** in peer-reviewed
 
 For a complete list, please see the [Publications](/publications/) page or my [Google Scholar profile](https://scholar.google.com.hk/citations?user=We2C960AAAAJ).
 
+Selected Publications
+======
+
+**[Proteomic signature of dementia risk in type 2 diabetes](/publication/2026-05-01-proteomic-t2d-dementia)**<br>
+*Journal of Advanced Research* (2026) · Co-first author<br>
+Using UK Biobank Pharma Proteomics Project data from 52,958 participants, this study identified proteomic signatures and a 51-protein model for long-term dementia risk stratification in people with type 2 diabetes.<br>
+[Journal article](https://www.sciencedirect.com/science/article/pii/S2090123225006010) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/40829688/)
+
+**[Genetic mechanisms, brain structures, and peripheral biomarkers mediate the relationship between physical frailty and neuropsychiatric disorders](/publication/2026-04-01-frailty-neuropsychiatric-dementia)**<br>
+*Journal of Advanced Research* (2026) · First author<br>
+This UK Biobank study examined the relationships of physical frailty with dementia and other neuropsychiatric disorders, integrating genetic, neuroimaging, and peripheral biomarker evidence.<br>
+[Journal article](https://www.sciencedirect.com/science/article/pii/S2090123225004552) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/40543840/)
+
 News
 ======
 - **[Jul 2026]** Attended **AAIC 2026** in London, UK, and delivered an **oral presentation**.
