@@ -16,7 +16,7 @@ This prospective cohort study used data from 492,059 UK Biobank participants to 
 **Key findings:**
 
 - Participants with the three liver diseases showed poorer cognitive, mental health, and motor-function measures than participants without these conditions.
-- Liver diseases were associated with higher incidence of dementia, major depressive disorder, and generalised anxiety disorder during a median follow-up of 14.46 years.
+- Liver diseases were associated with higher incidence of dementia, major depressive disorder, and generalized anxiety disorder during a median follow-up of 14.46 years.
 - Polygenic risk scores were associated with liver diseases and downstream brain-related outcomes.
 - C-reactive protein, neutrophil-to-lymphocyte ratio, platelets, and low-density lipoprotein components partially mediated genetic and liver-disease pathways to brain disorders.
 

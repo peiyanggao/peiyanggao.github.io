@@ -11,7 +11,7 @@ paperurl: 'https://www.nature.com/articles/s41467-026-72529-y'
 
 **Links**: [Journal page](https://www.nature.com/articles/s41467-026-72529-y) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/42049746/)
 
-This study leveraged the UK Biobank cohort (N = 383,421) to investigate how social isolation and loneliness relate to brain health across multiple dimensions, including neurological and psychiatric disease incidence, brain structure, behavioural phenotypes, and peripheral biomarkers.
+This study leveraged the UK Biobank cohort (N = 383,421) to investigate how social isolation and loneliness relate to brain health across multiple dimensions, including neurological and psychiatric disease incidence, brain structure, behavioral phenotypes, and peripheral biomarkers.
 
 **Key findings:**
 
