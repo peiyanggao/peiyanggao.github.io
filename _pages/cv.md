@@ -23,7 +23,8 @@ Awards
 ======
 * **AAIC 2026 Conference Fellowship**, Alzheimer's Association International Conference, 2026
 * **JSN 67th Travel Grant**, Japanese Society of Neurology, 2026
-* **AAIC 2025 Conference Fellowship**, Alzheimer's Association International Conference, 2025* * **JSN 66th Travel Grant**, Japanese Society of Neurology, 2025
+* **AAIC 2025 Conference Fellowship**, Alzheimer's Association International Conference, 2025
+* **JSN 66th Travel Grant**, Japanese Society of Neurology, 2025
 * **Outstanding Graduate Award**, Shandong Province, 2024
 * **Outstanding Graduate Award**, Qingdao University, 2024
 * **AAIC 2024 Conference Fellowship**, Alzheimer's Association International Conference, 2024
