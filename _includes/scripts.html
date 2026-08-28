@@ -1,5 +1,69 @@
 <script type="module" src="{{ base_path }}/assets/js/main.min.js"></script>
 
+<script>
+  (function () {
+    function prepareExternalLink(link) {
+      var href = link.getAttribute("href");
+
+      if (!href) {
+        return;
+      }
+
+      try {
+        var url = new URL(href, window.location.href);
+
+        if (
+          (url.protocol === "http:" || url.protocol === "https:") &&
+          url.hostname !== window.location.hostname
+        ) {
+          link.setAttribute("target", "_blank");
+
+          var rel = new Set(
+            (link.getAttribute("rel") || "").split(/\s+/).filter(Boolean)
+          );
+          rel.add("noopener");
+          rel.add("noreferrer");
+          link.setAttribute("rel", Array.from(rel).join(" "));
+        }
+      } catch (error) {
+        // Leave malformed and nonstandard links unchanged.
+      }
+    }
+
+    function prepareExternalLinks(root) {
+      if (root.matches && root.matches("a[href]")) {
+        prepareExternalLink(root);
+      }
+
+      if (root.querySelectorAll) {
+        root.querySelectorAll("a[href]").forEach(prepareExternalLink);
+      }
+    }
+
+    function initializeExternalLinks() {
+      prepareExternalLinks(document);
+
+      if (document.body && "MutationObserver" in window) {
+        new MutationObserver(function (mutations) {
+          mutations.forEach(function (mutation) {
+            mutation.addedNodes.forEach(function (node) {
+              if (node.nodeType === Node.ELEMENT_NODE) {
+                prepareExternalLinks(node);
+              }
+            });
+          });
+        }).observe(document.body, { childList: true, subtree: true });
+      }
+    }
+
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", initializeExternalLinks);
+    } else {
+      initializeExternalLinks();
+    }
+  })();
+</script>
+
 {% include analytics.html %}
 
 {% include comments-providers/scripts.html %}
