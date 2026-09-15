@@ -28,12 +28,12 @@ Selected Publications
 
 **[Associations of liver dysfunction with incident dementia, cognition, and brain structure: A prospective cohort study of 431 699 adults](/publication/2023-09-26-liver-dysfunction-dementia)**<br>
 *Journal of Neurochemistry* (2024) · First author<br>
-[Google Scholar citations: **43**](https://scholar.google.com.hk/scholar?oi=bibs&hl=en&cites=2266843602741101160,11669171993665973246,10451030814398203442) (as of August 27, 2026)<br>
+[Google Scholar citations: **46**](https://scholar.google.com.hk/scholar?oi=bibs&hl=en&cites=2266843602741101160,11669171993665973246,10451030814398203442) (as of September 15, 2026)<br>
 [Journal article](https://onlinelibrary.wiley.com/doi/10.1111/jnc.15988) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/37830502/)
 
 **[Genetic mechanisms, brain structures, and peripheral biomarkers mediate the relationship between physical frailty and neuropsychiatric disorders](/publication/2026-04-01-frailty-neuropsychiatric-dementia)**<br>
 *Journal of Advanced Research* (2026) · First author<br>
-[Google Scholar citations: **19**](https://scholar.google.com.hk/scholar?oi=bibs&hl=en&cites=4633145626099434684,8194525953789500696) (as of August 27, 2026)<br>
+[Google Scholar citations: **22**](https://scholar.google.com.hk/scholar?oi=bibs&hl=en&cites=4633145626099434684,8194525953789500696) (as of September 15, 2026)<br>
 [Journal article](https://www.sciencedirect.com/science/article/pii/S2090123225004552) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/40543840/)
 
 News
