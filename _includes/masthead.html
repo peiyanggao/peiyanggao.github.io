@@ -15,7 +15,7 @@
               {% assign domain = base_path %}
             {% endif %}
             <li class="masthead__menu-item {% if page.url contains link.url and link.url != '/' %}selected{% endif %}">
-              <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+              <a href="{{ domain }}{{ link.url }}"{% if link.two_lines %} class="research-tab" aria-label="{{ link.title }}"{% endif %}>{% if link.two_lines %}<span>Research</span><br><span>Interests</span>{% else %}{{ link.title }}{% endif %}</a>
             </li>
           {% endfor %}
           <li id="theme-toggle" class="masthead__menu-item persist tail">

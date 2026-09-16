@@ -1,0 +1,18 @@
+.research-page p { line-height: 1.65; }
+.research-page .issue-controls { margin: 1.4em 0 .65em; }
+.research-page .issue-date { font-size: .9em; font-weight: 600; }
+.research-page .weekly-summary h2 { margin-top: 1.25em; }
+.research-page .weekly-summary ul { font-size: .82em; padding-left: 1.25em; }
+.research-page .weekly-summary li { margin-bottom: .65em; }
+.research-page .small-note { font-size: .68em; opacity: .82; }
+.research-page .research-entry { padding: 1.15em 0 1em; border-bottom: 1px solid var(--global-border-color); scroll-margin-top: 100px; }
+.research-page .research-entry h3 { font-size: 1em; line-height: 1.45; margin: .3em 0; }
+.research-page .entry-meta, .research-page .entry-authors { font-size: .65em; margin: 0; opacity: .82; }
+.research-page .entry-meta { font-weight: 600; }
+.research-page .entry-meta span { font-weight: 400; }
+.research-page .entry-authors { margin-bottom: .9em; }
+.research-page .research-entry > p[data-lang] { font-size: .8em; margin: .8em 0; }
+.research-page .entry-links { font-size: .65em; margin: 1em 0 0; }
+.research-page .entry-links span { margin-left: 12px; opacity: .82; }
+.research-page .topic-links { font-size: .8em; margin-top: 1.5em; }
+.research-page .topic-section { scroll-margin-top: 100px; }
