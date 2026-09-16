@@ -1,0 +1,10 @@
+<section class="research-history">
+  <h2>Reading Archive</h2>
+  <p>Browse published issues and their key themes.</p>
+  {% for issue in site.data.research_history %}
+  <article>
+    <h3><a href="{{ issue.url | relative_url }}">{{ issue.label }}</a></h3>
+    <p>{{ issue.summary }}</p>
+  </article>
+  {% endfor %}
+</section>
