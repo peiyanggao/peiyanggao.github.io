@@ -4,7 +4,7 @@ collection: publications
 category: coauthor
 permalink: /publication/2026-04-20-social-isolation-neuropsychiatric
 excerpt: 'Using UK Biobank data from 383,421 participants, this study reveals significant associations between social isolation, loneliness, and the incidence of 11 neurological and psychiatric disorders, with Mendelian randomization supporting causal effects on major depressive disorder, schizophrenia, sleep disorders, and epilepsy. Brain structural changes and peripheral inflammatory biomarkers partially mediate these relationships.'
-date: 2026-04-20
+date: 2026-04-28
 venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-026-72529-y'
 ---

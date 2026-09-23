@@ -14,7 +14,7 @@ Education
 * **Ph.D. in Neurology**, Capital Medical University, 2024 – present
   * Advisor: Prof. Yi Tang
   * Xuanwu Hospital, National Innovation Center for Neurological Disorders
-* **Master degree in Neurology**, Qingdao University, 2021 – 2024
+* **master’s degree in Neurology**, Qingdao University, 2021 – 2024
   * Advisor: Prof. Jin-Tai Yu
   * Qingdao Municipal Hospital, Department of Neurology
 

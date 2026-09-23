@@ -3,7 +3,7 @@ title: "Associations of liver dysfunction with incident dementia, cognition, and
 collection: publications
 category: firstauthor
 permalink: /publication/2023-09-26-liver-dysfunction-dementia
-excerpt: 'Using UK Biobank data from 431,699 participants, this study reveals that liver dysfunction — including abnormal liver enzymes (ALT, AST, GGT) and liver diseases (alcoholic liver disease, fibrosis/cirrhosis) — significantly increases the risk of incident dementia, impairs cognition, and is associated with structural changes in brain regions critical for cognitive function.'
+excerpt: 'In 431,699 UK Biobank participants, liver dysfunction was associated with incident dementia, poorer cognitive performance, and differences in brain structure. The study examined liver enzymes (ALT, AST, GGT) and liver diseases, including alcoholic liver disease and fibrosis/cirrhosis.'
 date: 2023-09-26
 venue: 'Journal of Neurochemistry'
 paperurl: 'https://onlinelibrary.wiley.com/doi/10.1111/jnc.15988'
@@ -20,4 +20,4 @@ This study leveraged the UK Biobank cohort (N = 431,699) to investigate the long
 - Restricted cubic spline models revealed U-shaped relationships between albumin, AST, and dementia incidence.
 - Liver dysfunction was associated with poorer cognitive performance and structural changes in cognition-related brain regions, including the hippocampus, amygdala, thalamus, and superior frontal cortex.
 
-This work provides substantial evidence that liver dysfunction is an important modifiable risk factor for dementia, and suggests that early intervention in liver health may help prevent cognitive decline and dementia incidence.
+These observational findings link liver dysfunction to dementia risk and cognitive outcomes. They do not establish whether interventions targeting liver health prevent cognitive decline or dementia.
