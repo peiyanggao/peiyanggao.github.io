@@ -38,6 +38,7 @@ Selected Publications
 
 News
 ======
+- **[Oct 2026]** My first-author article in *Journal of Advanced Research*, "[Genetic mechanisms, brain structures, and peripheral biomarkers mediate the relationship between physical frailty and neuropsychiatric disorders](/publication/2026-04-01-frailty-neuropsychiatric-dementia)," has been selected as an **ESI Highly Cited Paper**.
 - **[Jul 2026]** Attended **AAIC 2026** in London, UK, and delivered an **oral presentation**.
 - **[Jul 2026]** New co-first-author paper has been published in *Journal of Advanced Research*: "[Mental health, biological aging, and lifestyle mediate the associations between social determinants of health and dementia.](https://www.sciencedirect.com/science/article/pii/S2090123226005813?via%3Dihub)"
 - **[Apr 2026]** Our work has been accepted for **oral and poster presentations at AAIC 2026** in July (London, UK). I have also received the full package of **AAIC 2026 Conference Fellowship**.
